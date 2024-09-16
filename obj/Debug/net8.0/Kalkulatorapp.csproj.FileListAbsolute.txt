@@ -1,0 +1,15 @@
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/bin/Debug/net8.0/Kalkulatorapp
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/bin/Debug/net8.0/Kalkulatorapp.deps.json
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/bin/Debug/net8.0/Kalkulatorapp.runtimeconfig.json
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/bin/Debug/net8.0/Kalkulatorapp.dll
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/bin/Debug/net8.0/Kalkulatorapp.pdb
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/obj/Debug/net8.0/Kalkulatorapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/obj/Debug/net8.0/Kalkulatorapp.AssemblyInfoInputs.cache
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/obj/Debug/net8.0/Kalkulatorapp.AssemblyInfo.cs
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/obj/Debug/net8.0/Kalkulatorapp.csproj.CoreCompileInputs.cache
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/obj/Debug/net8.0/Kalkulatorapp.sourcelink.json
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/obj/Debug/net8.0/Kalkulatorapp.dll
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/obj/Debug/net8.0/refint/Kalkulatorapp.dll
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/obj/Debug/net8.0/Kalkulatorapp.pdb
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/obj/Debug/net8.0/Kalkulatorapp.genruntimeconfig.cache
+/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/obj/Debug/net8.0/ref/Kalkulatorapp.dll
