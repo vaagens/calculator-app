@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/Kalkulatorapp.csproj": {}
+    "C:\\Repos\\calculator-app\\Kalkulatorapp.csproj": {}
   },
   "projects": {
-    "/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/Kalkulatorapp.csproj": {
+    "C:\\Repos\\calculator-app\\Kalkulatorapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/Kalkulatorapp.csproj",
+        "projectUniqueName": "C:\\Repos\\calculator-app\\Kalkulatorapp.csproj",
         "projectName": "Kalkulatorapp",
-        "projectPath": "/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/Kalkulatorapp.csproj",
-        "packagesPath": "/Users/rejwanraouf/.nuget/packages/",
-        "outputPath": "/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/obj/",
+        "projectPath": "C:\\Repos\\calculator-app\\Kalkulatorapp.csproj",
+        "packagesPath": "C:\\Users\\steva\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\calculator-app\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/rejwanraouf/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\steva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,11 +38,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

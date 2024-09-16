@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OKK2porPJSHNHUrSYM2H1aCFcOMwecsI/5Abdq1h40BG06Bfzi982j8pfTXWzWNhSpPhpc6rcgZ0jHfV2uzfSA==",
+  "dgSpecHash": "NOChrgaB00lMqm0vZNoJgCmHSGovoru2c4wjdWBQJnBlIIlQaiOMaV5pThVlBJ+xOdWUfFRfwaJ3XG3AHjWJQQ==",
   "success": true,
-  "projectFilePath": "/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/Kalkulatorapp.csproj",
+  "projectFilePath": "C:\\Repos\\calculator-app\\Kalkulatorapp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
