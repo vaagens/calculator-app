@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/Kalkulatorapp.csproj": {}
+  },
+  "projects": {
+    "/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/Kalkulatorapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/Kalkulatorapp.csproj",
+        "projectName": "Kalkulatorapp",
+        "projectPath": "/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/Kalkulatorapp.csproj",
+        "packagesPath": "/Users/rejwanraouf/.nuget/packages/",
+        "outputPath": "/Users/rejwanraouf/Gokstad/HØST2024/Emne 5 Algoritmer/Demo/git/Kalkulatorapp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rejwanraouf/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
