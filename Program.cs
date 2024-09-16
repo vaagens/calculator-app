@@ -22,3 +22,4 @@ double tall4 = Convert.ToDouble(Console.ReadLine());
 double differanse = tall3 - tall4;
 
 Console.WriteLine($"Resultatet av Substraksjon er {differanse}");
+Console.WriteLine("Siste linje med kode");
